@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode_Q278_FirstBadVersion", "Leetcode_Q278_FirstBadVersion\Leetcode_Q278_FirstBadVersion.vcxproj", "{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Debug|x64.ActiveCfg = Debug|x64
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Debug|x64.Build.0 = Debug|x64
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Debug|x86.Build.0 = Debug|Win32
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Release|x64.ActiveCfg = Release|x64
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Release|x64.Build.0 = Release|x64
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Release|x86.ActiveCfg = Release|Win32
+		{DB3B9B72-2AF4-4B77-9D32-27CFE9C61C86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D647F4DE-FB95-409B-9378-D6B8CFF3C095}
+	EndGlobalSection
+EndGlobal
